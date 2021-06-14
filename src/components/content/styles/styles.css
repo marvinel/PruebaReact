@@ -1,0 +1,36 @@
+.App-asd {
+  text-align: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.App-asd .h1home {
+  margin: 50px auto;
+  color: white;
+  width: 60%;
+  font-size: 30px;
+}
+
+.ligthbox {
+  margin: 0px auto;
+  width: 60%;
+  text-align: center;
+}
+
+.ligthbox p {
+  margin: 10px;
+}
+
+.ligthbox .icon {
+  margin: 0px auto;
+  color: chartreuse;
+  font-size: 50px;
+}
+
+@media (max-width: 920px) {
+  .App-asd .h1home {
+    font-size: 6vw;
+    width: 80%;
+  }
+}
+/*# sourceMappingURL=styles.css.map */

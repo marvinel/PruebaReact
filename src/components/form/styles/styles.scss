@@ -1,0 +1,74 @@
+.container{
+    //margin-top: 100px;
+    margin: 20px;
+    padding: 30px;
+    margin: 0 auto;
+    width: 30%;
+  //  background-color: yellowgreen !important;
+    align-items: center;
+    .mod{
+        background: white;
+    }
+
+    .form{
+       
+        margin: 0px auto;
+        align-items: center;
+     
+
+            .form-input{              
+                width: 100%;     
+                margin: 10px auto;
+                
+                text-align: center;       
+            }
+
+            .input-edad{
+                .edad{
+                    width: 50px;
+                    margin-left: 20px;
+                }
+            }
+
+            .slider{
+                margin: 20px 10px;
+                width: 60%;
+            }
+        
+   
+
+        .submit{
+            
+            padding: 12px 36px;
+            border-radius: 40px;
+            background: linear-gradient(90deg, #0162c8, #55e7fc);
+            margin: 0px auto;
+            letter-spacing: 2px;
+            color: white;
+            border: none;
+            cursor: pointer;
+            text-align: center;
+            width: 80%;
+        
+        }
+        .submit:hover{
+            background: #0162c8 ;
+        }
+        .submit:focus{
+            outline: 0px;
+        }
+    }
+}
+
+@media (max-width: 920px) {
+    .container{
+
+        width: 70%;
+
+        .submit{
+            width: 100%;
+        }
+    }
+
+      
+}

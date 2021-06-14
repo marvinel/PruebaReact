@@ -1,0 +1,68 @@
+.container {
+  margin: 20px;
+  padding: 30px;
+  margin: 0 auto;
+  width: 30%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container .mod {
+  background: white;
+}
+
+.container .form {
+  margin: 0px auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container .form .form-input {
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.container .form .input-edad .edad {
+  width: 50px;
+  margin-left: 20px;
+}
+
+.container .form .slider {
+  margin: 20px 10px;
+  width: 60%;
+}
+
+.container .form .submit {
+  padding: 12px 36px;
+  border-radius: 40px;
+  background: -webkit-gradient(linear, left top, right top, from(#0162c8), to(#55e7fc));
+  background: linear-gradient(90deg, #0162c8, #55e7fc);
+  margin: 0px auto;
+  letter-spacing: 2px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  width: 80%;
+}
+
+.container .form .submit:hover {
+  background: #0162c8;
+}
+
+.container .form .submit:focus {
+  outline: 0px;
+}
+
+@media (max-width: 920px) {
+  .container {
+    width: 70%;
+  }
+  .container .submit {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=styles.css.map */

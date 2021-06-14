@@ -1,0 +1,44 @@
+.App-asd{
+    
+
+    text-align: center;
+    align-content: center;
+    
+    .h1home{
+        margin: 50px auto;
+        color: white;
+        width: 60%;
+        font-size: 30px;
+        
+    }
+}       
+
+.ligthbox{
+    margin: 0px auto;
+    width: 60%;
+    text-align: center;
+    
+    p{
+        margin: 10px;
+    }
+    
+    .icon{
+        margin: 0px auto;
+        color: chartreuse;
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 920px) {
+    .App-asd{
+      
+        
+        .h1home{     
+            font-size: 6vw;
+            width: 80%;
+          //  width: 400px;
+            
+        }
+    } 
+      
+}
