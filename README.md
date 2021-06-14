@@ -1,3 +1,16 @@
+# Capturas
+
+## Desktop
+![desktop1](https://user-images.githubusercontent.com/25647359/121962328-3ec1a580-cd2e-11eb-9b00-d77c83146aff.PNG)
+![Desktop2](https://user-images.githubusercontent.com/25647359/121962330-3f5a3c00-cd2e-11eb-8c61-6bee87478281.PNG)
+![enviarform](https://user-images.githubusercontent.com/25647359/121962333-3ff2d280-cd2e-11eb-85c4-a484658aa3aa.PNG)
+
+
+
+## Mobile
+![movil](https://user-images.githubusercontent.com/25647359/121962334-3ff2d280-cd2e-11eb-8803-c7e4b3c97031.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
